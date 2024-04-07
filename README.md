@@ -12,9 +12,6 @@
 
 In our project we basically focus on producing a model which can recognise Fingerspelling based hand gestures in order to form a complete word by combining each gesture. The gestures we aim to train are as given in the image below. 
 
-
-![Spanish_SL](https://user-images.githubusercontent.com/99630855/201489493-585ffe5c-f460-402a-b558-0d03370b4f92.jpg)
-
 **Requirements:**
 
 More than 70 million deaf people around the world use sign languages to communicate. Sign language allows them to learn, work, access services, and be included in the communities.  
@@ -44,13 +41,6 @@ Mediapipe Landmark System:
 Now we get this landmark points and draw it in plain white background using opencv library 
 
 -By doing this we tackle the situation of background and lightning conditions because the mediapipe labrary will give us landmark points in any background and mostly in any lightning conditions. 
-
-
-![2022-10-31](https://user-images.githubusercontent.com/99630855/201489669-1b262755-23f8-4e02-91ba-393aa6482620.png)
-![2022-10-31 (1)](https://user-images.githubusercontent.com/99630855/201489673-08a8dad8-30a4-426a-8f62-02190416191d.png)
-
- ![hhee2022-10-31 (2)](https://user-images.githubusercontent.com/99630855/201496302-f67b360a-1ef5-4486-8ff7-cc56cee30b97.png)
-
 
 
 -Finally, we got **97%** Accuracy (with and without clean background and proper lightning conditions) through our method. And if the background is clear and there is good lightning condition then we got even **99%** accurate results 
