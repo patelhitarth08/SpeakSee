@@ -94,6 +94,9 @@ Python libraries: OpenCV, NumPy, Keras,mediapipe,Tensorflow
 ![Flowcharts (2)](https://user-images.githubusercontent.com/99630855/201490221-f543fa6d-75ba-4db0-bc35-ee8c06e25018.png)
 ![Flowcharts (1)](https://user-images.githubusercontent.com/99630855/201490226-966bcc44-8149-433d-ab3b-b0a23deb1c91.png)
 
+**Sequence diagram:**
+
+![sequence2](https://user-images.githubusercontent.com/99630855/201490230-b903c365-7a4c-4972-8268-5687060b9cd0.png)
 
 
 ## Image Captioning 📷
@@ -131,7 +134,5 @@ Blindness makes life rather difficult for people who suffer from this health pro
 ---
  
 
-**Sequence diagram:**
 
-![sequence2](https://user-images.githubusercontent.com/99630855/201490230-b903c365-7a4c-4972-8268-5687060b9cd0.png)
  
